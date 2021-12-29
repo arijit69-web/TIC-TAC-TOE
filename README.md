@@ -4,9 +4,10 @@
 The aim of the project is to create a TIC-TAC-TOE game using Java Swing.
 
 # Languages Used :
-Java, Java Swing
+- Java
+- Java Swing
 
-# Demo of the the TIC-TAC-TOE game
+# Screenshots of the the TIC-TAC-TOE game App :
 
 <img width="328" alt="tic" src="https://user-images.githubusercontent.com/60184336/127896982-e882fcd5-29e6-45a0-b264-9ff1d8b82524.PNG">
 
