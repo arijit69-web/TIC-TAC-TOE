@@ -1,6 +1,6 @@
 # TIC-TAC-TOE GAME
 
-# Aim :
+## Aim :
 The aim of the project is to create a TIC-TAC-TOE game using Java Swing.
 
 ## Languages Used :
